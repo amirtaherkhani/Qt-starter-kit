@@ -1,4 +1,4 @@
-# Qt Starter Kit with QML GUI and Plugin-Based Microservice Architecture
+# Qt Starter Kit with QML GUI and Plugin-Based MVVM and EDrive QML Architectures
 
 This **Qt Starter Kit** is designed to simplify and accelerate the development of embedded applications. It combines a **QML-based GUI**, a **microservice architecture**, and **plugin support** for modularity and scalability. This kit is ideal for projects requiring dynamic extensibility for both UI and backend services.
 
